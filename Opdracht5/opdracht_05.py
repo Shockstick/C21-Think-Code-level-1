@@ -1,3 +1,13 @@
-#maak hier een functie voor een top 3 van bijvoorbeeld je favoriete games, eten of iets anders
-#elke keer dat je de functie aanroept voeg je een nieuwe game toe als parameter
-#weet je niet meer hoe? Check het solution filmpje op: https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities
+# Prints out of the name of a favorite videogame
+def favorite_videogame(name):
+    print("One of my favorite videogames is",name)
+
+favorite_videogame("Team Fortress 2")
+favorite_videogame("Garry's Mod")
+favorite_videogame("Castle Crashers")
+favorite_videogame("Battleblocks theater")
+
+
+
+
+
